@@ -1,6 +1,6 @@
 # cal - proleptic gregorian month calendar with coloring
 
-This app tries to match `wsl ncal 10 2023 -b` output and was written as an excersize from the Command-Line Rust book. It doesn't follow the book solution though, but retains much of the tests (that were fixed to allows weeks that start on Monday, colorization and a different way to render the calendar).
+This app originally tried to match `wsl ncal 10 2023 -b` output and was written as an excersize from the Command-Line Rust book. It doesn't follow the book solution though, but retains much of the tests (that were fixed to allow weeks that start on Monday, colorization and a different way to render the calendar).
 
 ## Installation
 
